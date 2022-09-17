@@ -136,7 +136,7 @@ public class MyGUIRev {
 	}
 
 	public MyGUIRev() {
-		JFrame frame = new JFrame("Receivers");
+		JFrame frame = new JFrame("Receiver");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(400, 400);
 

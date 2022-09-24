@@ -158,3 +158,7 @@
 2022-09-17 10:53:46,639 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IT - IUH\New HK\KTvsKTPM\Workspace_KTvsTKPM\BaiTH2\ActiveMQ\src\main\resources
 2022-09-17 10:53:46,642 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-09-17 10:53:46,644 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IT - IUH\New HK\KTvsKTPM\Workspace_KTvsTKPM\BaiTH2\ActiveMQ\src\test\resources
+2022-09-17 11:31:52,300 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-17 11:31:52,304 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IT - IUH\New HK\KTvsKTPM\Workspace_KTvsTKPM\BaiTH2\ActiveMQ\src\main\resources
+2022-09-17 11:31:52,311 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-17 11:31:52,313 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\IT - IUH\New HK\KTvsKTPM\Workspace_KTvsTKPM\BaiTH2\ActiveMQ\src\test\resources
